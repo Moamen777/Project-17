@@ -1,0 +1,15 @@
+.buthov:hover{
+color:rgb(11, 94, 215) !important;
+}
+
+.buthov-2:hover{
+    color: black;
+}
+
+.buthov-3{
+    transition: all 0.5s ease-in-out;
+}
+.buthov-3:hover{
+    background-color: black;
+    color: white;
+}
